@@ -3,6 +3,7 @@
 .container {
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
 }
 .container .item {
 	width: 150px;
